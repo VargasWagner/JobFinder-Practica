@@ -101,3 +101,108 @@
     border: 0px;
     font-size: 17px;
 }
+
+/* Seccion browse top categories */
+
+.categories {
+    height: 175vh;
+    text-align: center;
+    font-family: Humnst777 CN BT;
+}
+
+.titulo2 {
+    margin-top: 200px;
+    font-size: 23px;
+    color: rgb(251, 36, 106);
+}
+
+.titulo-browse {
+    margin-bottom: 100px;
+    margin-top: 30px;
+    font-size: 60px;
+    color: rgb(40, 57, 90);
+}
+
+.category-job {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+
+.box {
+    width: 300px;
+    height: 230px;
+    margin: 17px;
+    font-size: 20px;
+    border: 1px solid rgb(218, 252, 239);
+}
+
+.box img {
+    width: 100px;
+    height: 100px;
+    margin-top: 35px;
+}
+
+.box
+.subtitulo {
+    font-weight: bold;
+}
+
+.box
+.anio {
+    color: rgb(251, 36, 106);
+}
+
+.categories button {
+    width: 23.4%;
+    height: 70px;
+    margin-top: 70px;
+    font-size: 17px;
+    border-radius: 6px;
+    border: 1px solid rgb(139, 146, 221);
+    color: rgb(139, 146, 223);
+    background-color: white;
+}
+
+/* Section resumen */
+
+.resumen {
+    height: 95vh;
+    background-image: url("/img/recursos-humanos-reclutamiento-recursos-humanos-empleo-dos-manos-sosteniendo-humano-holografico-virtual-icono-lider-luz-fondo-borroso-concepto-redes-sociales-red-comunicacion_486333-4224.jpg");
+    background-size: cover;
+    font-family: Humnst777 CN BT;
+}
+
+.resumen-box{
+    height: 100%;
+    background-color: rgb(73, 81, 144);
+    opacity: .9;
+    text-align: center;
+}
+
+.resumen-box p {
+    display: inline-block;
+    margin-top: 110px;
+    font-size: 20px;
+    color: white;
+}
+
+.resumen-box h1 {
+    width: 70%;
+    color: white;
+    font-size: 80px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.resumen-box button {
+    margin-top: 55px;
+    padding: 23px 100px;
+    background-color: rgb(73, 81, 144);
+    font-size: 17px;
+    border-radius: 6px;
+    border: 1px solid rgb(139, 146, 221);
+    color: rgb(139, 146, 223);
+}
